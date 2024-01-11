@@ -16,7 +16,8 @@ Cyclistic has partnered with the city of New York to provide shared bikes. Curre
 - **Measurable**: Each trip should be evaluated using starting and ending location, duration, variables such as time of day, season, and weather. For example, do customers use Cyclistic less when it rains? Or does bikeshare demand stay consistent? Does this vary by location and user types (subscribers vs. non-subscribers)? 
 - **Action-oriented:** These outcomes must prove or disprove the theory that location, time, season, and weather impact user demand. Then, the Cyclistic team will use this knowledge to refine future product development. 
 - **Relevant:** All metrics must support the primary question: How can we build a better Cyclistic experience? 
-   **Time-bound:** Analyze data that spans at least one year to see how seasonality affects usage. Exploring data that spans multiple months will capture peaks and valleys in usage. 
+   **Time-bound:** Analyze data that spans at least one year to see how seasonality affects usage. Exploring data that spans multiple months will capture peaks and valleys in usage.
+  
 **Project Documentation Completed:**
 - Stakeholder Requirement Document
 - Project Requirement Document
