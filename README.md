@@ -10,6 +10,7 @@ Cyclistic has partnered with the city of New York to provide shared bikes. Curre
 - Gather insights about congestion at stations. 
 - Gather insights about the number of trips across all starting and ending locations. 
 - Gather insights about peak usage by time of day, season, and the impact of weather. 
+
 **The ask/metrics:**
 - **Specific:** BI insights must clearly identify the specific characteristics of a successful product. They must demonstrate how customers are currently using bikes and what impacts demand at station locations. 
 - **Measurable**: Each trip should be evaluated using starting and ending location, duration, variables such as time of day, season, and weather. For example, do customers use Cyclistic less when it rains? Or does bikeshare demand stay consistent? Does this vary by location and user types (subscribers vs. non-subscribers)? 
